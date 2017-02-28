@@ -6,7 +6,7 @@ Author : Aouidane med amine
 Mail : med.amine.aouidane@gmail.com
 
 1. Clone the repo: `git clone https://github.com/medamineDev/laravel5.2-angular1.git`
-2. change directory: `cd laravel5-angular/blog`
+2. change directory: `cd laravel5-angular`
 3. Install Laravel: `composer install --prefer-dist`
 4. copy example.env to .env then Change your database settings in your .env file
 5. Migrate your database: `php artisan migrate`
