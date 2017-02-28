@@ -3,7 +3,7 @@
 ## Installation
 
 Author : Aouidane med amine
-Mail : med.amine.aouidane@gmail.com
+Mail : aouidane.med.amine@gmail.com
 
 1. Clone the repo: `git clone https://github.com/medamineDev/laravel5.2-angular1.git`
 2. change directory: `cd laravel5-angular`
