@@ -32,6 +32,14 @@
 	<div class="page-header">
 		<h2>Laravel and Angular Single Page Application</h2>
 		<h4>Commenting System</h4>
+		<div id="wrapper"></div>
+		<div directive-a=""></div>
+		<directive-e></directive-e>
+		<div class="directive-c"></div>
+
+		<div id="directive-args" directive-args="{id:123,name:'teo',salary:1000,color:red}"></div>
+
+
 	</div>
 
 	<!-- NEW COMMENT FORM -->
