@@ -14,12 +14,12 @@
 // =============================================
 // HOME PAGE ===================================
 // =============================================
-Route::get('/', function()
+Route::get('/home', function()
 {
     return View::make('index');
 });
 
-Route::get('/home', function()
+Route::get('/', function()
 {
     return View::make('welcome');
 });
