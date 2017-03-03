@@ -24,6 +24,8 @@ Route::get('/', function()
     return View::make('welcome');
 });
 
+Route::get('/getImage',"HomeController@getImage");
+
 
 // =============================================
 // API ROUTES ==================================
